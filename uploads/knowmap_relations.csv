@@ -1,0 +1,48 @@
+subject,subject_type,relation,object,object_type,start_year,end_year,country,domain,notes
+United States,country,has_president,Bill Clinton,person,1993.0,2001.0,USA,politics,Two terms
+United States,country,has_president,George W. Bush,person,2001.0,2009.0,USA,politics,Two terms
+United States,country,has_president,Barack Obama,person,2009.0,2017.0,USA,politics,Two terms
+United States,country,has_president,Donald Trump,person,2017.0,2021.0,USA,politics,One term
+United States,country,has_president,Joe Biden,person,2021.0,,USA,politics,Ongoing as of dataset example
+India,country,has_president,A. P. J. Abdul Kalam,person,2002.0,2007.0,India,politics,
+India,country,has_president,Pratibha Patil,person,2007.0,2012.0,India,politics,First woman President of India
+India,country,has_president,Pranab Mukherjee,person,2012.0,2017.0,India,politics,
+India,country,has_president,Ram Nath Kovind,person,2017.0,2022.0,India,politics,
+India,country,has_president,Droupadi Murmu,person,2022.0,,India,politics,Ongoing as of dataset example
+India,country,has_prime_minister,Atal Bihari Vajpayee,person,1998.0,2004.0,India,politics,
+India,country,has_prime_minister,Manmohan Singh,person,2004.0,2014.0,India,politics,
+India,country,has_prime_minister,Narendra Modi,person,2014.0,,India,politics,Ongoing as of dataset example
+Classical Mechanics,concept,is_subfield_of,Physics,discipline,,,,science,
+Quantum Mechanics,concept,is_subfield_of,Physics,discipline,,,,science,
+Relativity,concept,is_subfield_of,Physics,discipline,,,,science,
+Electromagnetism,concept,is_subfield_of,Physics,discipline,,,,science,
+Thermodynamics,concept,is_subfield_of,Physics,discipline,,,,science,
+Statistical Mechanics,concept,is_subfield_of,Physics,discipline,,,,science,
+Optics,concept,is_subfield_of,Physics,discipline,,,,science,
+Solid State Physics,concept,is_subfield_of,Physics,discipline,,,,science,
+Particle Physics,concept,is_subfield_of,Physics,discipline,,,,science,
+Nuclear Physics,concept,is_subfield_of,Physics,discipline,,,,science,
+Astrophysics,concept,is_subfield_of,Physics,discipline,,,,science,
+Condensed Matter Physics,concept,is_subfield_of,Physics,discipline,,,,science,
+Quantum Mechanics,concept,related_to,Quantum Computing,concept,,,,science,Applications in computation
+Optics,concept,related_to,Photonics,concept,,,,science,
+Thermodynamics,concept,related_to,Statistical Mechanics,concept,,,,science,
+Relativity,concept,related_to,Cosmology,concept,,,,science,
+Convolutional Neural Networks,method,applied_to,Retinal Image Analysis,task,,,,ai_medicine,Fundus image classification / segmentation
+Transformers,method,applied_to,Protein Sequence Modeling,task,,,,ai_biology,Sequence-to-structure tasks
+Graph Neural Networks,method,applied_to,Molecular Property Prediction,task,,,,ai_chemistry,
+Reinforcement Learning,method,applied_to,Robotics Control,task,,,,ai_engineering,
+Bayesian Inference,method,applied_to,Astrophysical Parameter Estimation,task,,,,ai_physics,
+Computer Vision,method,applied_to,Autonomous Driving Perception,task,,,,ai_engineering,
+NLP,method,applied_to,Clinical Notes Mining,task,,,,ai_medicine,
+Statistical Learning,method,related_to,Econometrics,discipline,,,,ai_economics,
+Machine Learning,concept,related_to,Data Mining,concept,,,,cross_domain,
+Deep Learning,concept,related_to,Representation Learning,concept,,,,cross_domain,
+Quantum Computing,concept,depends_on,Quantum Mechanics,concept,,,,cross_domain,
+Photonics,concept,overlaps_with,Optical Communications,concept,,,,cross_domain,
+Bioinformatics,concept,integrates,Biology,concept,,,,cross_domain,
+Bioinformatics,concept,integrates,Computer Science,concept,,,,cross_domain,
+Computational Neuroscience,concept,integrates,Neuroscience,concept,,,,cross_domain,
+Computational Neuroscience,concept,integrates,Applied Mathematics,concept,,,,cross_domain,
+Geospatial Intelligence,concept,applied_to,Disaster Response,concept,,,,cross_domain,
+Time Series Analysis,concept,applied_to,Stock Prediction,concept,,,,cross_domain,
