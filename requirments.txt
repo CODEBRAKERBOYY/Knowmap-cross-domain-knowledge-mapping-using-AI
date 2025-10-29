@@ -1,0 +1,16 @@
+flask==3.0.3
+flask-cors==4.0.0
+pyjwt==2.9.0
+python-dotenv==1.0.1
+
+streamlit==1.39.0
+
+spacy==3.7.2
+# If Apple Silicon, these help wheels resolve
+# thinc==8.2.5
+# cymem==2.0.8
+# preshed==3.0.9
+
+pandas==2.2.2
+networkx==3.3
+pyvis==0.3.2

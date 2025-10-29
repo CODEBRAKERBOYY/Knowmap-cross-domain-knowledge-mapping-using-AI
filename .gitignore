@@ -1,0 +1,28 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.venv/
+
+# Uploaded data
+uploads/
+
+# SQLite database
+*.db
+*.sqlite
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+
+# IDE/editor settings
+.idea/
+.vscode/
+
+# Other
+*.egg-info/

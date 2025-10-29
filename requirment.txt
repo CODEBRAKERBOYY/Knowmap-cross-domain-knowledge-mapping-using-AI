@@ -1,9 +1,0 @@
-echo "Flask==3.0.3
-Flask-Cors==4.0.0
-pandas==2.2.2
-faker==25.2.0
-requests==2.32.3
-streamlit==1.39.0
-python-dotenv==1.0.1
-passlib==1.7.4
-PyJWT==2.9.0" > requirements.txt
