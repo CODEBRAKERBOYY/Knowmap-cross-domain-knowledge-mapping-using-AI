@@ -3,26 +3,24 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# Virtual environment
+# Virtual environments
 venv/
 .venv/
 
-# Uploaded data
+# Uploaded or generated data
 uploads/
-
-# SQLite database
 *.db
 *.sqlite
 
 # Logs
 *.log
 
-# OS files
+# System and IDE files
 .DS_Store
-
-# IDE/editor settings
 .idea/
 .vscode/
 
-# Other
+# Distribution / build
 *.egg-info/
+build/
+dist/
