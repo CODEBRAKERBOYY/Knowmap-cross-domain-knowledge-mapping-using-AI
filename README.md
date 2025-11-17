@@ -83,4 +83,3 @@ Knowmap-cross-domain-knowledge-mapping-using-AI/
 │   └── colab_run.png
 │
 ├── README.md
-└── .gitignore
