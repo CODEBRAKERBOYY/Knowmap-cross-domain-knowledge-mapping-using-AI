@@ -76,7 +76,10 @@ Knowmap-cross-domain-knowledge-mapping-using-AI/
 │   ├── milestone_3_embedding.py
 │   ├── milestone_4_graph.py
 │   └── milestone_5_streamlit.py
+
 ---
+
+```
 
 ## 🖼️ Application Screenshots
 
@@ -91,8 +94,6 @@ Knowmap-cross-domain-knowledge-mapping-using-AI/
 
 ### 🔍 Knowledge Graph Visualization & Semantic Search
 <img src="./screenshots/search.png" width="750"/>
-<img src="./screenshots/search1.png" width="750"/>
-
 
 ### 🛠️ Admin Dashboard
 <img src="./screenshots/dashboard.png" width="750"/>
