@@ -76,10 +76,28 @@ Knowmap-cross-domain-knowledge-mapping-using-AI/
 │   ├── milestone_3_embedding.py
 │   ├── milestone_4_graph.py
 │   └── milestone_5_streamlit.py
-│
-├── screenshots/
-│   ├── ui.png
-│   ├── graph_output.png
-│   └── colab_run.png
-│
-├── README.md
+---
+
+## 🖼️ Application Screenshots
+
+### 🔐 User Authentication
+<img src="./screenshots/login.png" width="750"/>
+
+### 📁 Dataset Management
+<img src="./screenshots/dataset.png" width="750"/>
+
+### 🧠 NLP Extraction — Entities & Relations
+<img src="./screenshots/nlp.png" width="750"/>
+
+### 🔍 Knowledge Graph Visualization & Semantic Search
+<img src="./screenshots/search.png" width="750"/>
+<img src="./screenshots/search1.png" width="750"/>
+
+
+### 🛠️ Admin Dashboard
+<img src="./screenshots/dashboard.png" width="750"/>
+
+### 💬 User Feedback & Peer Testing
+<img src="./screenshots/feedback.png" width="750"/>
+
+
